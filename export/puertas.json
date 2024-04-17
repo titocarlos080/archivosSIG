@@ -1,0 +1,85 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -63.154308802865586,
+          -17.787000933984771
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "nombre" : "ENTRADA"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -63.154287149763775,
+          -17.786568269453873
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "nombre" : "ENTRADA/ SALIDA"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -63.15425842822863,
+          -17.786165060004713
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "nombre" : "ENTRADA/ SALIDA"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -63.154698653759624,
+          -17.785693966061512
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "nombre" : "ENTRADA/ SALIDA"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -63.155042118439034,
+          -17.785690208455485
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "nombre" : "ENTRADA/ SALIDA"
+      }
+    }
+  ]
+}

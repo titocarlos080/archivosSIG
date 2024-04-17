@@ -1,0 +1,98 @@
+<PAMDataset>
+  <SRS>PROJCS["WGS_1984_UTM_Zone_20S",GEOGCS["GCS_WGS_1984",DATUM["WGS_1984",SPHEROID["WGS_84",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",10000000.0],PARAMETER["Central_Meridian",-63.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0],AUTHORITY["EPSG","32720"]]</SRS>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <Metadata domain="xml:ESRI" format="xml">
+    <GeodataXform xsi:type="typens:CompositeXform" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:typens="http://www.esri.com/schemas/ArcGIS/10.7">
+      <XF_0 xsi:type="typens:PolynomialXform">
+        <PolynomialOrder>1</PolynomialOrder>
+        <SpatialReference xsi:type="typens:ProjectedCoordinateSystem">
+          <WKT>PROJCS["WGS_1984_UTM_Zone_20S",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",10000000.0],PARAMETER["Central_Meridian",-63.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0],AUTHORITY["EPSG",32720]]</WKT>
+          <XOrigin>-5120900</XOrigin>
+          <YOrigin>1900</YOrigin>
+          <XYScale>450445547.3910538</XYScale>
+          <ZOrigin>-100000</ZOrigin>
+          <ZScale>10000</ZScale>
+          <MOrigin>-100000</MOrigin>
+          <MScale>10000</MScale>
+          <XYTolerance>0.001</XYTolerance>
+          <ZTolerance>0.001</ZTolerance>
+          <MTolerance>0.001</MTolerance>
+          <HighPrecision>true</HighPrecision>
+          <WKID>32720</WKID>
+          <LatestWKID>32720</LatestWKID>
+        </SpatialReference>
+        <CoeffX xsi:type="typens:ArrayOfDouble">
+          <Double>483406.17940223962</Double>
+          <Double>5.5658304794104472e-07</Double>
+          <Double>-0.41949441419643024</Double>
+        </CoeffX>
+        <CoeffY xsi:type="typens:ArrayOfDouble">
+          <Double>8033076.8510138607</Double>
+          <Double>0.41949441419643024</Double>
+          <Double>5.5658304794104472e-07</Double>
+        </CoeffY>
+        <InverseCoeffX xsi:type="typens:ArrayOfDouble">
+          <Double>-19149426.59670087</Double>
+          <Double>3.1628428216807835e-06</Double>
+          <Double>2.383821967960662</Double>
+        </InverseCoeffX>
+        <InverseCoeffY xsi:type="typens:ArrayOfDouble">
+          <Double>1152328.8625475392</Double>
+          <Double>-2.383821967960662</Double>
+          <Double>3.1628428216807835e-06</Double>
+        </InverseCoeffY>
+        <Name />
+      </XF_0>
+      <XF_1 xsi:type="typens:PolynomialXform">
+        <PolynomialOrder>1</PolynomialOrder>
+        <SpatialReference xsi:type="typens:ProjectedCoordinateSystem">
+          <WKT>PROJCS["WGS_1984_UTM_Zone_20S",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",10000000.0],PARAMETER["Central_Meridian",-63.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0],AUTHORITY["EPSG",32720]]</WKT>
+          <XOrigin>-5120900</XOrigin>
+          <YOrigin>1900</YOrigin>
+          <XYScale>450445547.3910538</XYScale>
+          <ZOrigin>-100000</ZOrigin>
+          <ZScale>10000</ZScale>
+          <MOrigin>-100000</MOrigin>
+          <MScale>10000</MScale>
+          <XYTolerance>0.001</XYTolerance>
+          <ZTolerance>0.001</ZTolerance>
+          <MTolerance>0.001</MTolerance>
+          <HighPrecision>true</HighPrecision>
+          <WKID>32720</WKID>
+          <LatestWKID>32720</LatestWKID>
+        </SpatialReference>
+        <SourceGCPs xsi:type="typens:ArrayOfDouble">
+          <Double>483414.13129450422</Double>
+          <Double>8033623.0588295646</Double>
+          <Double>483773.0833877449</Double>
+          <Double>8033622.6854308434</Double>
+          <Double>483790.64121216355</Double>
+          <Double>8033605.6228174008</Double>
+          <Double>483791.4580102287</Double>
+          <Double>8033090.2448685598</Double>
+          <Double>483413.92356950155</Double>
+          <Double>8033090.544679299</Double>
+        </SourceGCPs>
+        <TargetGCPs xsi:type="typens:ArrayOfDouble">
+          <Double>483519.41750825499</Double>
+          <Double>8033518.2774930149</Double>
+          <Double>483646.51000000001</Double>
+          <Double>8033517.0099999998</Double>
+          <Double>483655.51750825503</Double>
+          <Double>8033509.4399974598</Double>
+          <Double>483645.07000000001</Double>
+          <Double>8033326.8899974609</Double>
+          <Double>483514.15502413007</Double>
+          <Double>8033331.0549987303</Double>
+        </TargetGCPs>
+        <Name />
+      </XF_1>
+      <RequireDEM>false</RequireDEM>
+    </GeodataXform>
+  </Metadata>
+</PAMDataset>
